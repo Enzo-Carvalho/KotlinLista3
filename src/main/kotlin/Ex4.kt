@@ -27,13 +27,13 @@ fun main(){
                     jovemCalmo++
                 }
             }
-            if(sexo ==2 && temperamento ==2){
+            if(sexo ==1 && temperamento ==2){
                 mulherNervosa++
             }
             if(temperamento == 2 && idade>40){
                 velhoNervoso++
             }
-            if(sexo ==1 && temperamento == 3){
+            if(sexo ==2 && temperamento == 3){
                 homemAgressivo++
             }
             if (sexo ==3 && temperamento ==1){
